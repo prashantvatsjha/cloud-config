@@ -1,1 +1,1 @@
-"# cloud-config" 
+# cloud-config
